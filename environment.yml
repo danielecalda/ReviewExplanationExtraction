@@ -1,4 +1,4 @@
-name: babble
+name: explanation_extraction
 channels:
   - conda-forge
 dependencies:
